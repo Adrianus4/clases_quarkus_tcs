@@ -1,0 +1,4 @@
+org\acme\ProductResource.class
+org\acme\service\ProductService.class
+org\acme\GreetingResource.class
+org\acme\model\Product.class
