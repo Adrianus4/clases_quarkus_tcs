@@ -31,3 +31,11 @@ clases_quarkus_tcs/
 │       ├── mvnw
 │       ├── README.md
 │       └── target/
+
+
+## Peticiones
+- GET /api/products
+- GET /api/products/{id}
+- POST /api/products
+- PUT /api/products/{id}
+- DELETE /api/products/{id}
